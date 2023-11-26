@@ -1,3 +1,6 @@
+import pandas as pd
+from io import StringIO
+
 # Cantidad de nodos.
 cantidad_nodos = 33
 
